@@ -199,3 +199,7 @@ if err := driver.PrintStatus(); err != nil {
 * Something useful with the status.
 * Single point calibration triggering and reporting.
 * Firmware. Right now it just returns 1.
+
+## License
+
+MIT, see [LICENSE.txt](LICENSE.txt)
